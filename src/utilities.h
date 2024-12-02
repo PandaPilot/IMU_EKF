@@ -1,6 +1,6 @@
 #pragma once
 
-#include <Eigen.h>
+#include <Eigen/Dense>
 namespace IMU_EKF
 {
 template <typename precision, typename Derived>

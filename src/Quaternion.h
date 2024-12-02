@@ -1,7 +1,7 @@
 #pragma once
 
 #include <stdint.h>
-#include <Eigen.h>
+#include <Eigen/Dense>
 #include "utilities.h"
 
 namespace IMU_EKF
